@@ -1,6 +1,4 @@
-# Market-Basket-Analysis
-
-# Grocery Store Association Analysis
+# Market-Basket-Analysis : Grocery Store Association Analysis
 This project analyzes transactional data from a grocery store to discover frequent itemsets and association rules, and visualizes the results using network graphs.
 
 ## Table of Contents
